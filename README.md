@@ -8,7 +8,7 @@ I'm a Software Engineer, Content Creator, and Junior Backend Developer who curre
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Express.js, Flask and Python.
+- 🌱 I’m currently learning HTML, JavaScript, Express.js, Flask and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Developer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing oluwaseyitemitope456@gmail.com.
