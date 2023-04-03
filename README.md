@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ajayi Oluwaseyi Temitope</h1>
 <h3 align="center">A passionate Backend developer from Nigeria</h3>
 
+<br>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwatemmy&label=Profile%20views&color=0e75b6&style=flat" alt="oluwatemmy" /> </p>
