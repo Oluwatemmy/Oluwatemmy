@@ -9,10 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/oluwatemmy15" target="blank"><img src="https://img.shields.io/twitter/follow/oluwatemmy15?logo=twitter&style=for-the-badge" alt="oluwatemmy15" /></a> </p>
 
-- 🔭 I’m currently working on [Student-Management-API](https://github.com/Oluwatemmy/Student-Management-API)
-
-- 🌱 I’m currently learning **Flask Framework**
-
 - 👨‍💻 All of my projects are available at [https://oluwatemmy.me](https://oluwatemmy.me)
 
 - 💬 Ask me about **Python**
