@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oluwatemmy15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oluwatemmy15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oluwatemmy15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwatemmy15" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aotem11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwatemmy15" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14203236/ajayi-oluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14203236/ajayi-oluwaseyi" height="30" width="40" /></a>
 <a href="https://instagram.com/oluwa_temmyghold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oluwa_temmyghold" height="30" width="40" /></a>
 <a href="https://hashnode.com/@oluwatemmy15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@oluwatemmy15" height="30" width="40" /></a>
