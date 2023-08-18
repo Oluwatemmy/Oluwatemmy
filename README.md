@@ -35,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwatemmy&show_icons=true&locale=en" alt="oluwatemmy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluwatemmy&" alt="oluwatemmy" /></p>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/oluwatemmy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
