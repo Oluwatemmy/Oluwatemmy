@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/oluwatemmy15" target="blank"><img src="https://img.shields.io/twitter/follow/oluwatemmy15?logo=twitter&style=for-the-badge" alt="oluwatemmy15" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://oluwatemmy.netflify.app)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://oluwatemmy.netlify.app)
 
 - 💬 Ask me about **Python**
 
